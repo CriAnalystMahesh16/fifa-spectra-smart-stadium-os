@@ -1,191 +1,150 @@
+# ⚽ FIFA SPECTRA: AI-Powered Smart Stadium & Tournament Operations OS
 
-# ⚽ FIFA SPECTRA: Smart Stadium & Tournament Operations OS
+<div align="center">
 
-> **AI-powered Smart Stadium Operating System for the FIFA World Cup 2026**
+### 🌎 Reimagining FIFA World Cup 2026 Stadium Operations with Generative AI
 
-Built for the **Hack2Skill × Google for Developers – FIFA World Cup 2026 Smart Stadium Challenge**
+**Built for the Hack2Skill × Google for Developers FIFA World Cup 2026 Smart Stadium Challenge**
 
----
+![Build](https://img.shields.io/badge/Build-Passing-success?style=for-the-badge)
+![Tests](https://img.shields.io/badge/Tests-23%2F23%20Passing-brightgreen?style=for-the-badge)
+![Accessibility](https://img.shields.io/badge/WCAG-2.2AA-blue?style=for-the-badge)
+![AI](https://img.shields.io/badge/Gemini-2.5-orange?style=for-the-badge)
+![React](https://img.shields.io/badge/React-TypeScript-61DAFB?style=for-the-badge)
+![Firebase](https://img.shields.io/badge/Firebase-Google-yellow?style=for-the-badge)
 
-# 🌍 Overview
+**🏟 16 Stadiums • 🌎 3 Host Countries • ⚽ 48 Teams • 👥 Millions of Fans • 🌐 150+ Languages**
 
-FIFA SPECTRA is an AI-powered operating system designed to improve fan experience, venue operations, multilingual communication, accessibility, emergency response, sustainability, and tournament-wide coordination across FIFA World Cup 2026 host venues.
-
-## Highlights
-
-- 🌎 3 Host Countries
-- 🏟 16 Stadiums
-- ⚽ 48 Teams
-- 👥 Millions of Fans
-- 🌐 150+ Languages
-- 🤖 Gemini-powered AI
-- ♿ WCAG 2.2 AA Accessibility
-- ✅ 23/23 Tests Passing
+</div>
 
 ---
 
-# 🚀 Key Features
+# 🚀 Overview
 
-- AI Decision Engine
-- Universal Language Assistant
-- Real-Time Venue Telemetry Map
-- Predictive Crowd Intelligence
-- Accessibility Navigation
-- Volunteer AI
+The **FIFA World Cup 2026** will be the largest tournament in football history.
+
+Managing millions of spectators across **USA, Canada, and Mexico** introduces unprecedented operational challenges:
+
+- 🌐 Language barriers across 150+ countries
+- 🚶 Crowd congestion
+- 🚑 Emergency response coordination
+- ♿ Accessibility for every fan
+- 🚌 Transportation & venue logistics
+- 👮 Security monitoring
+- 🌱 Sustainability tracking
+- 🏟 Multi-venue tournament operations
+
+Traditional stadium apps operate in isolation.
+
+**FIFA SPECTRA** transforms the entire tournament into an **AI-powered Operating System**, enabling fans, volunteers, responders, security teams, and venue commanders to collaborate through real-time, intelligent, multilingual decision support powered by **Google Gemini**.
+
+---
+
+# 🎯 Why FIFA SPECTRA?
+
+| Traditional Stadium Apps | FIFA SPECTRA |
+|--------------------------|--------------|
+| Static information | AI-powered decision engine |
+| English-first | 150+ language support |
+| Reactive | Predictive operations |
+| Single venue | Tournament-wide coordination |
+| Manual decisions | AI recommendations |
+| Separate systems | Unified AI Operating System |
+
+---
+
+# ✨ Key Features
+
+## 🧠 AI Decision & Reasoning Center
+
+Visual AI reasoning pipeline showing:
+
+- Crowd Intelligence
+- Navigation
+- Translation
+- Volunteer Coordination
 - Emergency Response
-- Tournament Operations Dashboard
-- Sustainability Intelligence
+- Sustainability
+- Tournament Operations
 
 ---
 
-# 🎯 Problem
+## 🌐 Universal Language Assistant
 
-Traditional stadium applications are reactive, language-limited, and venue-specific.
+Supports fans from **150+ countries** using Gemini AI.
 
-FIFA SPECTRA unifies AI-powered decision making, multilingual communication, crowd intelligence, accessibility, and operations into one intelligent platform.
+Features include:
 
----
-
-# 👥 User Personas
-
-- Fan
-- Volunteer
-- Emergency Responder
-- Security Officer
-- Venue Commander
+- Live Translation
+- Voice Translation
+- Camera OCR Translation
+- Emergency Phrase Translation
+- AI Broadcast Translation
 
 ---
 
-# 🧠 AI Agent Mesh
+## 🗺 Real-Time Venue Telemetry Map
 
-- Navigation Agent
-- Crowd Intelligence Agent
-- Transportation Agent
-- Emergency Agent
-- Accessibility Agent
-- Multilingual Agent
-- Volunteer Agent
-- Security Agent
-- Sustainability Agent
-- Operations Copilot
+Interactive stadium intelligence displaying:
+
+- Live Crowd Density
+- Queue Times
+- Step-Free Routes
+- Emergency Incidents
+- Sustainability Sensors
+- Smart Navigation
 
 ---
 
-# 🌐 Multilingual AI
+## 🤖 AI Action Matrix
 
-Supports multilingual chat, OCR translation, voice translation, emergency phrases, and translated announcements using Gemini AI.
+AI-generated operational recommendations with one-click approval.
 
----
+Examples:
 
-# ♿ Accessibility
-
-- WCAG 2.2 AA
-- Keyboard Navigation
-- Screen Reader Support
-- ARIA Live Regions
-- High Contrast
-- Reduced Motion
-- Step-Free Routing
+- Redirect 2,184 Fans
+- Reduce Wait Time by 38%
+- Emergency Gate Release
+- Multilingual Broadcast
+- Volunteer Dispatch
+- Carbon Optimization
 
 ---
 
-# 🛡 Security
+## 👥 Role-Based Experience
 
-- RBAC
-- Input Validation
-- Prompt Injection Protection
-- Rate Limiting
-- Secure Headers
-- Sanitization
+### 👤 Fan
 
----
+- Smart Navigation
+- AI Companion
+- Live Translation
+- Ticket Assistance
+- Accessibility Support
 
-# ⚡ Performance
+### 👕 Volunteer
 
-- React.memo
-- useMemo
-- useCallback
-- Server-side caching
-- Optimized rendering
+- AI Task Queue
+- Voice Translation
+- Navigation
+- Stadium Handbook
 
----
+### 🚑 Emergency Responder
 
-# ✅ Testing
+- Medical Routing
+- Priority Navigation
+- Incident Management
+- Tactical Operations
 
-- 23/23 Tests Passing
-- Integration Tests
-- RBAC Tests
-- Translation Tests
-- Workflow Tests
-- End-to-End Scenarios
+### 👮 Security
 
----
+- Crowd Intelligence
+- Threat Monitoring
+- Tactical Alerts
+- Live Operations
 
-# ☁ Tech Stack
+### 👔 Venue Commander
 
-- React
-- TypeScript
-- Tailwind CSS
-- Node.js
-- Express
-- Gemini
-- Firebase
-- Google Maps
-
----
-
-# 🏗 Architecture
-
-```text
-Users
-  │
-  ▼
-FIFA SPECTRA
-  │
-  ├── Gemini AI
-  ├── Firebase
-  ├── Google Maps
-  └── Decision Engine
-```
-
----
-
-# 🚀 Run
-
-```bash
-npm install
-npm run dev
-```
-
-Build:
-
-```bash
-npm run build
-```
-
-Test:
-
-```bash
-npm test
-```
-
----
-
-# 📸 Screenshots
-
-Add:
-- Dashboard
-- Venue Map
-- AI Decision Center
-- Language Assistant
-- Commander View
-
----
-
-# 📄 License
-
-MIT
-
----
-
-Built for the **Hack2Skill × Google for Developers FIFA World Cup 2026 Challenge**.
+- Tournament Dashboard
+- AI Copilot
+- Predictive Analytics
+- Cross-Venue Operations
