@@ -148,3 +148,82 @@ Examples:
 - AI Copilot
 - Predictive Analytics
 - Cross-Venue Operations
+
+- ---
+
+# 👨‍💻 About the Author
+
+## Mahesh V. Waghmode
+
+**Cybersecurity Professional | Network Engineer | AI Consultant | AI Solutions Builder**
+
+I enjoy building AI-powered, secure, and scalable solutions that solve real-world challenges across cybersecurity, networking, automation, and smart infrastructure.
+
+This project demonstrates how Generative AI can transform large-scale sporting events by improving fan experience, multilingual communication, operational intelligence, accessibility, sustainability, and real-time decision support.
+
+
+# 🏆 Hackathon Submission
+
+**Challenge**
+
+**Hack2Skill × Google for Developers**
+
+**FIFA World Cup 2026 – Smart Stadium & Tournament Operations**
+
+**Project**
+
+**FIFA SPECTRA – AI-Powered Smart Stadium & Tournament Operations OS**
+
+---
+
+# 🛠 Built With
+
+- Google Gemini 2.5
+- Firebase
+- React
+- TypeScript
+- Tailwind CSS
+- Node.js
+- Express
+- Google Maps Platform
+
+---
+
+# 🙏 Acknowledgements
+
+Special thanks to:
+
+- Google for Developers
+- Hack2Skill
+- Google Gemini
+- Firebase
+- Google Maps Platform
+- The React & TypeScript communities
+- The Open Source community
+
+for providing the technologies and inspiration that made this project possible.
+
+---
+
+# 📄 License
+
+This project is licensed under the **MIT License**. See the `LICENSE` file for details.
+
+---
+
+<div align="center">
+
+# ⚽ FIFA SPECTRA
+
+### *Intelligence for Every Match. Safety for Every Fan. AI for Every Decision.*
+
+**Designed & Developed by Mahesh V. Waghmode**
+
+⭐ If you found this project interesting, consider giving it a star on GitHub.
+
+</div>
+## 📌 Disclaimer
+
+This project was developed as a hackathon prototype for the FIFA World Cup 2026 Smart Stadium Challenge.
+
+Some external services, operational data, and stadium events are simulated to demonstrate the platform's AI capabilities and intended real-world workflows.
