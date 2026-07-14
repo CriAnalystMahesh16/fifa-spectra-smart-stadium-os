@@ -47,6 +47,10 @@ app.use((req, res, next) => {
   res.setHeader('X-XSS-Protection', '1; mode=block');
   
   // 🌐 Secure CORS Policy Configuration
+  console.log(`[CORS Middleware] Checking path: ${req.path}, originalUrl: ${req.originalUrl}`);
+  if (req.path.startsWith('/assets/') || req.originalUrl.startsWith('/assets/')) {
+    return next();
+  }
   const origin = req.headers.origin;
   if (origin) {
     const allowedOrigins = [
@@ -57,6 +61,7 @@ app.use((req, res, next) => {
     if (allowedOrigins.includes(origin)) {
       res.setHeader('Access-Control-Allow-Origin', origin);
     } else {
+      console.log(`[CORS] Origin denied: ${origin} for path: ${req.path}`);
       return res.status(403).json({ error: 'Origin not allowed by CORS security policy.' });
     }
   }
