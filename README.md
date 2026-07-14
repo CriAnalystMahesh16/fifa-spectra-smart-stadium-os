@@ -38,6 +38,8 @@ Traditional stadium apps operate in isolation.
 
 **FIFA SPECTRA** transforms the entire tournament into an **AI-powered Operating System**, enabling fans, volunteers, responders, security teams, and venue commanders to collaborate through real-time, intelligent, multilingual decision support powered by **Google Gemini**.
 
+<img width="1042" height="817" alt="image" src="https://github.com/user-attachments/assets/e2cf3d4a-e919-49c5-b0af-7f3dc70ba20b" />
+
 ---
 
 # 🎯 Why FIFA SPECTRA?
